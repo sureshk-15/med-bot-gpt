@@ -1,0 +1,13 @@
+numpy
+fastapi
+uvicorn
+scikit-learn
+matplotlib
+pandas
+uvicorn
+gunicorn==19.9.0
+uvloop
+httptools
+streamlit
+transformers
+faiss-cpu --no-cache

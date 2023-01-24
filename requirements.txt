@@ -5,7 +5,6 @@ numpy
 fastapi
 uvicorn
 scikit-learn
-matplotlib
 pandas
 uvicorn
 gunicorn==19.9.0

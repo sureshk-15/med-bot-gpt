@@ -1,3 +1,6 @@
+tensorflow
+Keras
+opencv-python-headless
 numpy
 fastapi
 uvicorn

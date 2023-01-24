@@ -14,3 +14,4 @@ streamlit
 transformers
 faiss-cpu
 nltk
+mkl

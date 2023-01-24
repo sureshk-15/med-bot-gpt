@@ -10,4 +10,4 @@ uvloop
 httptools
 streamlit
 transformers
-faiss-cpu --no-cache
+faiss-cpu

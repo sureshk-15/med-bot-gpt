@@ -5,4 +5,5 @@ streamlit
 transformers
 faiss-cpu
 nltk
+altair
 
